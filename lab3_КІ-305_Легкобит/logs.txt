@@ -1,0 +1,70 @@
+[2022-10-27 at 23:38:41 EEST] Logger start to work
+[2022-10-27 at 23:38:41 EEST] [INFO] VideoPlayer constructor called
+[2022-10-27 at 23:38:41 EEST] [INFO] VideoPlayer AddSong method was called
+[2022-10-27 at 23:38:41 EEST] [INFO] VideoPlayer AddSong method was called
+[2022-10-27 at 23:38:41 EEST] [INFO] VideoPlayer AddSong method was called
+[2022-10-27 at 23:38:41 EEST] [INFO] VideoPlayer AddSong method was called
+[2022-10-27 at 23:38:41 EEST] [INFO] VideoPlayer AddSong method was called
+[2022-10-27 at 23:38:41 EEST] [INFO] TurnPrevNextSong VideoMagnitophone method was called
+[2022-10-27 at 23:38:41 EEST] [INFO] TurnPrevNextSong VideoMagnitophone method was called
+[2022-10-27 at 23:38:41 EEST] [INFO] TurnPrevNextSong VideoMagnitophone method was called
+[2022-10-27 at 23:38:41 EEST] [INFO] TurnPrevNextSong VideoMagnitophone method was called
+[2022-10-27 at 23:38:41 EEST] [INFO] TurnPrevNextSong VideoMagnitophone method was called
+[2022-10-27 at 23:38:41 EEST] [INFO] TurnPrevNextSong VideoMagnitophone method was called
+[2022-10-27 at 23:38:41 EEST] [INFO] TurnPrevNextSong VideoMagnitophone method was called
+[2023-11-09 at 14:00:06 EET] Logger start to work
+[2023-11-09 at 14:00:06 EET] [INFO] VideoPlayer constructor called
+[2023-11-09 at 14:00:06 EET] [INFO] VideoPlayer AddVideo method was called
+[2023-11-09 at 14:00:06 EET] [INFO] VideoPlayer AddVideo method was called
+[2023-11-09 at 14:00:06 EET] [INFO] VideoPlayer AddVideo method was called
+[2023-11-09 at 14:00:06 EET] [INFO] VideoPlayer AddVideo method was called
+[2023-11-09 at 14:00:06 EET] [INFO] VideoPlayer AddVideo method was called
+[2023-11-09 at 14:00:06 EET] [INFO] TurnOnNextVideo VideoPlayer method was called
+[2023-11-09 at 14:00:06 EET] [INFO] TurnOnNextVideo VideoPlayer method was called
+[2023-11-09 at 14:00:06 EET] [INFO] TurnOnNextVideo VideoPlayer method was called
+[2023-11-09 at 14:00:06 EET] [INFO] TurnPrevNextVideo VideoPlayer method was called
+[2023-11-09 at 14:00:06 EET] [INFO] TurnPrevNextVideo VideoPlayer method was called
+[2023-11-09 at 14:00:06 EET] [INFO] TurnPrevNextVideo VideoPlayer method was called
+[2023-11-09 at 14:00:06 EET] [INFO] TurnPrevNextVideo VideoPlayer method was called
+[2023-11-09 at 14:34:26 EET] Logger start to work
+[2023-11-09 at 14:34:26 EET] [INFO] VideoPlayer constructor called
+[2023-11-09 at 14:34:26 EET] [INFO] VideoPlayer AddVideo method was called
+[2023-11-09 at 14:34:26 EET] [INFO] VideoPlayer AddVideo method was called
+[2023-11-09 at 14:34:26 EET] [INFO] VideoPlayer AddVideo method was called
+[2023-11-09 at 14:34:26 EET] [INFO] VideoPlayer AddVideo method was called
+[2023-11-09 at 14:34:26 EET] [INFO] VideoPlayer AddVideo method was called
+[2023-11-09 at 14:34:26 EET] [INFO] TurnOnNextVideo VideoPlayer method was called
+[2023-11-09 at 14:34:26 EET] [INFO] TurnOnNextVideo VideoPlayer method was called
+[2023-11-09 at 14:34:26 EET] [INFO] TurnOnNextVideo VideoPlayer method was called
+[2023-11-09 at 14:34:26 EET] [INFO] TurnPrevNextVideo VideoPlayer method was called
+[2023-11-09 at 14:34:26 EET] [INFO] TurnPrevNextVideo VideoPlayer method was called
+[2023-11-09 at 14:34:26 EET] [INFO] TurnPrevNextVideo VideoPlayer method was called
+[2023-11-09 at 14:34:26 EET] [INFO] TurnPrevNextVideo VideoPlayer method was called
+[2023-11-21 at 11:23:29 EET] Logger start to work
+[2023-11-21 at 11:23:29 EET] [INFO] VideoPlayer constructor called
+[2023-11-21 at 11:23:29 EET] [INFO] VideoPlayer AddVideo method was called
+[2023-11-21 at 11:23:29 EET] [INFO] VideoPlayer AddVideo method was called
+[2023-11-21 at 11:23:29 EET] [INFO] VideoPlayer AddVideo method was called
+[2023-11-21 at 11:23:29 EET] [INFO] VideoPlayer AddVideo method was called
+[2023-11-21 at 11:23:29 EET] [INFO] VideoPlayer AddVideo method was called
+[2023-11-21 at 11:23:29 EET] [INFO] TurnOnNextVideo VideoPlayer method was called
+[2023-11-21 at 11:23:29 EET] [INFO] TurnOnNextVideo VideoPlayer method was called
+[2023-11-21 at 11:23:29 EET] [INFO] TurnOnNextVideo VideoPlayer method was called
+[2023-11-21 at 11:23:29 EET] [INFO] TurnPrevNextVideo VideoPlayer method was called
+[2023-11-21 at 11:23:29 EET] [INFO] TurnPrevNextVideo VideoPlayer method was called
+[2023-11-21 at 11:23:29 EET] [INFO] TurnPrevNextVideo VideoPlayer method was called
+[2023-11-21 at 11:23:29 EET] [INFO] TurnPrevNextVideo VideoPlayer method was called
+[2023-11-30 at 19:11:22 EET] Logger start to work
+[2023-11-30 at 19:11:22 EET] [INFO] VideoPlayer constructor called
+[2023-11-30 at 19:11:22 EET] [INFO] VideoPlayer AddVideo method was called
+[2023-11-30 at 19:11:22 EET] [INFO] VideoPlayer AddVideo method was called
+[2023-11-30 at 19:11:22 EET] [INFO] VideoPlayer AddVideo method was called
+[2023-11-30 at 19:11:22 EET] [INFO] VideoPlayer AddVideo method was called
+[2023-11-30 at 19:11:22 EET] [INFO] VideoPlayer AddVideo method was called
+[2023-11-30 at 19:11:22 EET] [INFO] TurnOnNextVideo VideoPlayer method was called
+[2023-11-30 at 19:11:22 EET] [INFO] TurnOnNextVideo VideoPlayer method was called
+[2023-11-30 at 19:11:22 EET] [INFO] TurnOnNextVideo VideoPlayer method was called
+[2023-11-30 at 19:11:22 EET] [INFO] TurnPrevNextVideo VideoPlayer method was called
+[2023-11-30 at 19:11:22 EET] [INFO] TurnPrevNextVideo VideoPlayer method was called
+[2023-11-30 at 19:11:22 EET] [INFO] TurnPrevNextVideo VideoPlayer method was called
+[2023-11-30 at 19:11:22 EET] [INFO] TurnPrevNextVideo VideoPlayer method was called
